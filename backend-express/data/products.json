@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Camiseta cl\u00e1sica",
+    "price": 19.99,
+    "description": "Camiseta de algod\u00f3n, corte regular.",
+    "image": "https://picsum.photos/seed/camiseta/400/300",
+    "stock": 20
+  },
+  {
+    "id": "p2",
+    "title": "Mochila urbana",
+    "price": 49.5,
+    "description": "Mochila resistente con varios compartimentos.",
+    "image": "https://picsum.photos/seed/mochila/400/300",
+    "stock": 8
+  },
+  {
+    "id": "p3",
+    "title": "Taza personalizada",
+    "price": 9.0,
+    "description": "Taza cer\u00e1mica 350ml \u2014 apta para lavavajillas.",
+    "image": "https://picsum.photos/seed/taza/400/300",
+    "stock": 50
+  }
+]
